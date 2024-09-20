@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Additional project information
+Firebase Authentication service was used for authentication.
+The tanstack/react-query library was used for data loading.
+Headlessui/react library was used for modal windows.
+The react-spinners library was used for loading display.
