@@ -69,8 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### Additional project information
+## Additional project information
 Firebase Authentication service was used for authentication.
 The tanstack/react-query library was used for data loading.
 Headlessui/react library was used for modal windows.
 The react-spinners library was used for loading display.
+
+## Link to deployed application
+https://firebase-authentication-iqvjicxaa-pavlenko-alexanders-projects.vercel.app
